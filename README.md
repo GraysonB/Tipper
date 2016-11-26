@@ -1,2 +1,2 @@
-# tipper
+# Tipper
 A simple tip calculator Android app
