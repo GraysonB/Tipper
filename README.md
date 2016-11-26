@@ -5,8 +5,7 @@ Features:
 * Live Text Updating
 
 Screenshots:
-<img src="https://github.com/GraysonB/Tipper/blob/master/Screenshots/Screenshot_20161126-004611.jpg" alt="Basic Screenshot w/o Keyboard" style="width: 20px;"/>
-![Basic Screenshot w/o Keyboard](https://github.com/GraysonB/Tipper/blob/master/Screenshots/Screenshot_20161126-004611.png = 250x)
-![Basic Screenshot w/ Keyboard](https://github.com/GraysonB/Tipper/blob/master/Screenshots/Screenshot_20161126-004631.png =250x)
+![Basic Screenshot w/o Keyboard](https://github.com/GraysonB/Tipper/blob/master/Screenshots/Screenshot_20161126-004611.jpg)
+![Basic Screenshot w/ Keyboard](https://github.com/GraysonB/Tipper/blob/master/Screenshots/Screenshot_20161126-004631.jpg)
 
 Credit: Deitel Developers
