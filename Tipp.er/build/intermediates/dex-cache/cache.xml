@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Grayson/AndroidStudioProjects/Tipp.er/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="702122af5ebae0bf67c72976a9d44b2488aaf392">
+        <dex dex="/Users/Grayson/AndroidStudioProjects/Tipp.er/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_54c393f9bbaa712af6a54bdbe9648263fcb2ae51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Grayson/AndroidStudioProjects/Tipp.er/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="274066053af9aa6c23a35d7f1671970299f8ad71">
+        <dex dex="/Users/Grayson/AndroidStudioProjects/Tipp.er/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_229a3071ace349682e8f151d70096d52d9261bb8/classes.dex" />
+    </item>
+
+</items>

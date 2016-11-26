@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tipper</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_amount">Total</string>
+    <string name="tip_percent">15%</string>
+</resources>

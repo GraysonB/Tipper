@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <dimen name="activity_horizontal_margin">25dp</dimen>
+    <dimen name="activity_vertical_margin">25dp</dimen>
+    <dimen name="textview_elevation">4dp</dimen>
+    <dimen name="textview_padding">12dp</dimen>
+    <string name="app_name">Tipper</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip_label">Tip</string>
+    <string name="tip_percent">15%</string>
+    <string name="total_amount">Total</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
